@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 End-to-end Data Science & Machine Learning projects, including model deployment and real-world problem solving.<br>Data Science, Machine Learning, AI, and Automation-based projects.<br>MLOps, model optimization, and scalable ML system design.<br>Advanced SQL, ML Engineering concepts, deployment, and MLOps tools.<br>Python, Data Science, Machine Learning, Deep Learning, SQL, and project building<br>I enjoy turning raw data into meaningful insights and real-world applications 🚀
 
 
@@ -18,6 +16,3 @@ End-to-end Data Science & Machine Learning projects, including model deployment 
 [![](https://visitcount.itsvg.in/api?id=ramp906592&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**ramp906592/ramp906592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
